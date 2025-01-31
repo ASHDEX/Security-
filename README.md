@@ -13,7 +13,11 @@ Mike Meyer's Certification Course and Guide
 
 Jason Dion's Udemy course and Practice Tests 
 
-Exam Strategy 
+
+
+
+
+# # # Exam Strategy 
 Start with a video course of your choice and start writing notes based on the videos.
 
 Simultaneously, pick up a textbook and read the correlating domain.
