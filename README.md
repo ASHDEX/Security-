@@ -30,7 +30,7 @@ Identify your weak point and then work on them.
 
 Before sitting for the exam, complete an entire practice test as simulation to the original exam.
 
-##Materials Available 
+#Materials Available 
 
 
 CompTIA Security+ Get Certified Get Ahead: SY0-701 Study Guide (https://amzn.to/3VwXBQM)
