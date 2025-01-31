@@ -17,7 +17,7 @@ Jason Dion's Udemy course and Practice Tests
 
 
 
-# # # Exam Strategy 
+# Exam Strategy 
 Start with a video course of your choice and start writing notes based on the videos.
 
 Simultaneously, pick up a textbook and read the correlating domain.
@@ -30,7 +30,9 @@ Identify your weak point and then work on them.
 
 Before sitting for the exam, complete an entire practice test as simulation to the original exam.
 
-Materials Available (*Amazon link are affiliate links)
+##Materials Available 
+
+
 CompTIA Security+ Get Certified Get Ahead: SY0-701 Study Guide (https://amzn.to/3VwXBQM)
 
 CompTIA Security+ Certification Kit: Exam SY0-701 (https://amzn.to/3xczkFC)
